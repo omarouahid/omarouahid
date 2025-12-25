@@ -1,55 +1,18 @@
-# Hi there, I'm Omar Ouahid 👋
+# 💫 About Me:
+👋 Hi, I'm Omar, an AI / ML Engineer and Backend Engineer with a strong focus on production-grade AI systems and technical leadership.<br><br>I design and build scalable, end-to-end AI solutions — from data pipelines and model training to LLM-powered agentic systems, APIs, and cloud-native deployments.<br><br>My work sits at the intersection of Machine Learning, NLP, Backend Engineering, and MLOps, with hands-on experience deploying systems on AWS (Bedrock, Lambda, Fargate, Step Functions). I enjoy transforming complex business problems into robust, maintainable, and high-impact AI products.<br><br>As a tech lead, I care deeply about clean architecture, system reliability, clear abstractions, and knowledge sharing. I value pragmatic engineering, thoughtful prompt/model design, and building systems that scale both technically and organizationally.<br><br>🚀 Interests: Agentic AI, LLM orchestration, RAG systems, ML system design, backend architecture, and applied AI at scale.
 
-## Software Developer | AI Enthusiast | Automation Specialist
 
-Welcome to my GitHub profile! I'm passionate about building intelligent systems and tools that enhance productivity and solve real-world problems.
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarouahid.98@gmail.com)
 
-### 🚀 What I Do
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=omarouahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=omarouahid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarouahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I specialize in developing AI-powered applications and automation tools. My focus areas include:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- **AI & Machine Learning**: Building intelligent assistants and automation systems
-- **Developer Tools**: Creating tools that improve developer productivity
-- **Resume Technology**: Developing systems for resume processing and optimization
-- **Interview Systems**: AI-driven interview and assessment platforms
-
-### 🛠️ Technologies & Tools
-
-```text
-Languages:     Python, JavaScript, TypeScript
-AI/ML:         OpenAI, LangChain, Machine Learning
-Backend:       Node.js, FastAPI, REST APIs
-Frontend:      React, Modern Web Technologies
-Tools:         Git, Docker, VS Code
-```
-
-### 📊 GitHub Stats
-
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarouahid&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-### 💼 Featured Projects
-
-#### 🎯 [Visual Personal Assistant](https://github.com/omarouahid/visual-personal-assistant)
-AI-powered personal assistant for enhanced productivity and task automation
-
-#### 🤖 [AI Interviewer](https://github.com/omarouahid/ai_interviewer)
-Intelligent interview system powered by AI
-
-#### 📄 [Resume Adapter](https://github.com/omarouahid/resume-adapter-clean)
-Smart resume processing and optimization tool
-
-### 📫 Let's Connect
-
-- GitHub: [@omarouahid](https://github.com/omarouahid)
-- Open to collaboration on AI and automation projects
-
-### 🌱 Current Focus
-
-- Building intelligent automation systems
-- Exploring advanced AI applications
-- Contributing to open-source projects
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=omarouahid&color=blue&style=flat-square)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
